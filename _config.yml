@@ -120,6 +120,8 @@ comments:
     owner       : YujunXie # GitHub repo owner
     admin: YujunXie, # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
+    distractionFreeMode: true,
+
 
 
 ## => Pageview
