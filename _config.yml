@@ -118,8 +118,8 @@ comments:
     clientSecret: a4e7a6a9bb1d5e468f38af8fb046926b9ecc6247 # GitHub Application Client Secret
     repository  : YujunXie.github.io # GitHub repo
     owner       : YujunXie # GitHub repo owner
-    admin: [YujunXie], # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-    id:  # - your GitHub Id
+    admin: YujunXie, # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+      # - your GitHub Id
 
 
 ## => Pageview
