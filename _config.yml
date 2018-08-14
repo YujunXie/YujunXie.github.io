@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://www.yujuner.me # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://www.YujunXie.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Yujun的博客
 description: > # this means to ignore newlines until "Language & timezone"
@@ -105,7 +105,7 @@ sources: # bootcdn (default), unpkg
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
@@ -114,12 +114,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    clientID    : 6341eb1cefa318f0af83 # GitHub Application Client ID
+    clientSecret: a4e7a6a9bb1d5e468f38af8fb046926b9ecc6247 # GitHub Application Client Secret
+    repository  : YujunXie.github.io # GitHub repo
+    owner       : YujunXie # GitHub repo owner
+    admin: [YujunXie], # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    id:  # - your GitHub Id
 
 
 ## => Pageview
