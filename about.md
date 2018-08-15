@@ -1,6 +1,5 @@
 ---
-layout: page
-type: article
+layout: article
 titles:
   en: About
   zh: 关于
@@ -9,7 +8,6 @@ titles:
 author: Xie Yujun
 show_author_profile: true
 key: page-about
-
 ---
 
 This is my blog.
