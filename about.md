@@ -7,7 +7,7 @@ titles:
   zh-Hant: 關於
 author: Xie Yujun
 key: page-about
-show_author_profile: true
+_show_author_profile: true
 
 ---
 
