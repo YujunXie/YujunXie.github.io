@@ -26,6 +26,15 @@
       .douban-button {
         @include clickable($text-color-1, $douban-color);
       }
+      .zhihu-button {
+        @include clickable($text-color-1, $mail-color);
+      }
+      .qq-button {
+        @include clickable($text-color-1, $mail-color);
+      }
+      .weixin-button {
+        @include clickable($text-color-1, $douban-color);
+      }
     }
   }
 }
