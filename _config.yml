@@ -47,7 +47,7 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : u/5540382526 # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
-  zhizhu    : da-xia-99-1  # https://www.zhihu.com/people/user_name/
+  zhihu    : da-xia-99-1  # https://www.zhihu.com/people/user_name/
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
