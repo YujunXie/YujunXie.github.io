@@ -6,8 +6,8 @@ titles:
   zh-Hans: 关于
   zh-Hant: 關於
 author: Xie Yujun
+show_author_profile: true
 key: page-about
-_show_author_profile: true
 
 ---
 
