@@ -1,7 +1,7 @@
 ---
 title: Sublime Text 插件与快捷
 key: 20160912
-tags: 算法
+tags: 编辑器
 ---
 
 目前sublime text3是我最常使用的编辑器，优点是漂亮轻巧加上简便的插件功能。
