@@ -10,6 +10,8 @@ Session: 代表服务器与浏览器的一次会话过程（其本来的含义�
 
 我们在这里讨论的session机制实质是客户端与服务器端之间状态保持的解决方案。
 
+<!--more-->
+
 > Session 的工作机制是：为每个访问者创建一个唯一的 id (UID)，并基于这个 UID 来存储变量。UID 存储在 cookie 中，亦或通过 URL 进行传导。
 
 session和cookie一直被放在一起比较，我们这里不讨论它们俩，只需知道cookie机制采用的是在客户端保持状态的方案，而session机制采用的是在服务器端保持状态的方案，且大部分session机制都使用会话cookie来保存session id（标识session是否存在）。
