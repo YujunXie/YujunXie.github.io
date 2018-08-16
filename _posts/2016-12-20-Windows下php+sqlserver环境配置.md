@@ -5,10 +5,12 @@ tags: PHP SQLServer
 ---
 
 -为什么使用的数据库是微软的SqlServer而不是和蔼可亲的MySQL呢？
-        -因为这是老师要求的数据库课设必须使用的数据库:)。
-已有环境: PHP5.3以上版本+SqlServer2012+Win10
-操作：连接PHP与SqlServer
+        
+-因为这是老师要求的数据库课设必须使用的数据库:)。
 
+已有环境: PHP5.3以上版本+SqlServer2012+Win10
+
+操作：连接PHP与SqlServer
 
 <!--more-->
 
