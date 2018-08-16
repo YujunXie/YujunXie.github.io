@@ -1,7 +1,7 @@
 ---
 title: 学习SQLServer
 key: 20161229
-tags: SQLServer 数据库
+tags: 数据库
 ---
 
 - 解决中文乱码
