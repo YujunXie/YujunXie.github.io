@@ -1,5 +1,5 @@
 ---
-title: DFS之POJ2488 A Knignt's Journey
+title: POJ2488 A Knignt's Journey
 key: 20160908
 tags: 算法
 ---
