@@ -1,7 +1,7 @@
 ---
 title: Windows下php+sqlserver环境配置
 key: 20161220
-tags: PHP SQLServer
+tags: PHP 数据库
 ---
 
 -为什么使用的数据库是微软的SqlServer而不是和蔼可亲的MySQL呢？
