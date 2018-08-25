@@ -1,9 +1,9 @@
 header:
   - titles:
-      en:       Home
-      zh:       主页
-      zh-Hans:  主页
-      zh-Hant:  主页
+      en:       Blog
+      zh:       博客
+      zh-Hans:  博客
+      zh-Hant:  博客
     url:        /index.html
   - research:
     en:       Research
