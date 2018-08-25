@@ -20,7 +20,7 @@ text_skin:  # "default" (default), "dark", "forest", "ocean", "chocolate", "oran
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.YujunXie.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Yujun的博客
+title   : YujunXie
 description: > # this means to ignore newlines until "Language & timezone"
   To record and share.
 
