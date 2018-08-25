@@ -1,12 +1,12 @@
 header:
   - titles:
-      en:       home
+      en:       Blog
       zh:       博客
       zh-Hans:  博客
       zh-Hant:  博客
     url:        /index.html
-  - research:
-    en:       Research
+  - titles:
+      en:       Research
       zh:       研究
       zh-Hans:  研究
       zh-Hant:  研究
