@@ -5,6 +5,12 @@ header:
       zh-Hans:  主页
       zh-Hant:  主页
     url:        /index.html
+  - research:
+    en:       Research
+      zh:       研究
+      zh-Hans:  研究
+      zh-Hant:  研究
+    url:        /research.html
   - titles:
       en:       Archive
       zh:       归档
