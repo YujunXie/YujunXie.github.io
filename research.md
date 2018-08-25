@@ -2,9 +2,9 @@
 layout: article
 titles:
   en: Research
-  zh: 博客
-  zh-Hans: 博客
-  zh-Hant: 博客
+  zh: 研究
+  zh-Hans: 研究
+  zh-Hant: 研究
 author: Xie Yujun
 show_author_profile: true
 key: page-research
