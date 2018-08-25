@@ -6,17 +6,17 @@ header:
       zh-Hant:  博客
     url:        /index.html
   - titles:
-      en:       Research
-      zh:       研究
-      zh-Hans:  研究
-      zh-Hant:  研究
-    url:        /research.html
-  - titles:
       en:       Archive
       zh:       归档
       zh-Hans:  归档
       zh-Hant:  歸檔
     url:        /archive.html
+  - titles:
+      en:       Research
+      zh:       研究
+      zh-Hans:  研究
+      zh-Hant:  研究
+    url:        /research.html
   - titles:
       en:       About
       zh:       关于
