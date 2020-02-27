@@ -75,4 +75,5 @@ aligned_features = tf.image.resize_images(feature_map, (self.pool_size, self.poo
 ---
 参考文献：
 [RoIPooling与RoIAlign的区别](https://blog.csdn.net/kk123k/article/details/86563425)
+
 [图像处理之双线性插值法](https://blog.csdn.net/qq_37577735/article/details/80041586)
